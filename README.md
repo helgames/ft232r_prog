@@ -1,6 +1,4 @@
-# ft232r_prog
-Mark Lord's FTDI FT232R programming tool, with Debian packaging
-
+# ft232r OSX Homebrew
 How to install
 
 brew install libftdi0
