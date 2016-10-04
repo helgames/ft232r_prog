@@ -1,11 +1,9 @@
 # ft232r OSX Homebrew
 How to install
 
-brew install libftdi0
-
 brew install libusb
 
-download
+brew install libftdi0
 
 make
 
