@@ -2,8 +2,11 @@
 How to install
 
 brew install libftdi0
+
 brew install libusb
+
 download
+
 make
 
 before conneting your device unload Apple KEXT
